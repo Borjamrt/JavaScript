@@ -1,3 +1,4 @@
 import "./style.css";
 
-console.log("Hello from main");
+console.log("Hola Mundo");
+console.log((120-18)/6);
