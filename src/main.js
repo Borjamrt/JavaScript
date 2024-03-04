@@ -18,4 +18,6 @@ function sumar(){
     document.getElementById("resultado").innerHTML = resultado;
     const botonSumar = document.getElementById("sumar");
     botonSumar.addEventListener("click", sumar);
+    print resultado
 }
+
